@@ -44,17 +44,11 @@ p, li, th, td {
 }
 
 p {
-<<<<<<< HEAD
     color: #5f564d;
-=======
-    color: #5f56d;
->>>>>>> b8fc2e3ad19efc3ea3080e07b3958cb2fc337473
     line-height: 150%;
     margin-bottom: 32px;
 
 }
-<<<<<<< HEAD
-
 .tempo{
 
 background-color: #fff7fb;
@@ -94,5 +88,20 @@ ol, ul {
     font-size: 12px;
 }
 
-=======
->>>>>>> b8fc2e3ad19efc3ea3080e07b3958cb2fc337473
+h2 {
+font-size: 28px;
+color: #854662;
+line-height: 100%;
+margin-bottom: 24px;
+}
+
+
+.ingredientes {
+    font-size: 20px;
+    color: #854632;
+}
+
+hr{
+    border: 1px solid #e3ddd7;
+    margin-block: 32px;
+}
